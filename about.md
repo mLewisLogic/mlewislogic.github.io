@@ -10,3 +10,5 @@ Computers are something that I'm inextricably attached to. I remember using the 
 Currently, I work on payment systems at [Airbnb](https://www.airbnb.com). Before that, I co-founded [Fondu](http://fondu.com).
 
 I love all technology, and have been fortunate enough to work at every levels of the stack: ASIC, PCB design, embedded firmware, web front+backend and on up to site reliability and big data.
+
+Tech aside, I love adventure and believe that if it sounds like a bad idea, it will likely make a great story.
