@@ -1,0 +1,52 @@
+# SITE CONFIGURATION
+url: http://www.mLewisLogic.com
+title: mLewisLogic
+description: Go placidly amid the noise and haste
+github_username: mLewisLogic
+twitter_username: mLewisLogic
+
+
+# THEME-SPECIFIC CONFIGURATION
+theme:
+  # Meta
+  title: mLewisLogic
+  description: Go placidly amid the noise and haste
+
+  # Header and footer text
+  header_text:
+  footer_text:
+
+  # Icons
+  rss: false
+  email_address: # full email address, e.g. "sam@example.com"
+  github: mlewislogic
+  linkedin:  # full URL
+  stack_exchange:  # full URL
+  twitter: mlewislogic
+
+  # Scripts
+  google_analytics: # tracking id, e.g. "UA-000000-01"
+  disqus_shortname:
+
+  # Localization strings
+  str_follow_on: "Follow on"
+  str_rss_follow: "Follow RSS feed"
+  str_email: "Email"
+  str_next: "Next"
+  str_prev: "Prev"
+  str_continue_reading: "Continue reading"
+
+  # Colors, typography and padding
+  # Open the "_sass > base" folder, and open "_variables.scss"
+
+
+# PAGINATION
+paginate: 20
+paginate_path: "blog/page:num"
+
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass

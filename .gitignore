@@ -3,3 +3,7 @@
 
 # rbenv
 .ruby-version
+
+# Jekyll
+_site
+.sass-cache
