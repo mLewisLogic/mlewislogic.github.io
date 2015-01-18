@@ -20,7 +20,6 @@ GEM
     colorator (0.1)
     execjs (2.2.2)
     fast-stemmer (1.0.2)
-    fastercsv (1.5.5)
     ffi (1.9.6)
     gemoji (2.1.0)
     github-pages (31)
@@ -67,10 +66,6 @@ GEM
     jekyll-coffeescript (1.0.1)
       coffee-script (~> 2.2)
     jekyll-gist (1.1.0)
-    jekyll-import (0.5.3)
-      fastercsv
-      jekyll (>= 1.4)
-      nokogiri
     jekyll-mentions (0.2.1)
       html-pipeline (~> 1.9.0)
       jekyll (~> 2.0)
@@ -129,4 +124,4 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-import
+  jekyll-redirect-from
