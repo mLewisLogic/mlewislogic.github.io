@@ -3,7 +3,6 @@ id: 155
 title: Old School Adventure Bikers
 author: Mike
 layout: post
-guid: http://deathbymisadventure.com/?p=155
 permalink: /2009/12/old-school-adventure-bikers/
 dsq_thread_id:
   - 108898078

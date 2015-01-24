@@ -3,7 +3,6 @@ id: 122
 title: Movember Thank You
 author: Mike
 layout: post
-guid: http://deathbymisadventure.com/?p=122
 permalink: /2009/12/movember-thank-you/
 dsq_thread_id:
   - 108897548

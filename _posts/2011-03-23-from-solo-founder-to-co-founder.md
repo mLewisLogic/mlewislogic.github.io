@@ -16,7 +16,7 @@ tags:
   - solo founder
   - spoton
 ---
-[<img alt="" class="alignright size-full wp-image-113" height="312" src="http://www.cleverkoala.com/wp-content/uploads/2011/03/a-team.jpg" title="team" width="275" />][1]Apologies. This is a longer, personal one.
+[<img alt="" class="alignright size-full wp-image-113" height="312" src="/wp-content/uploads/2011/03/a-team.jpg" title="team" width="275" />][1]Apologies. This is a longer, personal one.
 
 Up until recently, I was the solo founder of [eventLo][2], a recommendation engine for upcoming social events. I even wrote a post about [some of my experiences as a solo founder][3]. About a month ago, that changed, as I merged eventLo into [SpotOn][4]. Here's how it happened, and some reflection on the last month.
 
@@ -52,9 +52,9 @@ To the founders and aspiring founders out there: I'm not suggesting you avoid so
 
 However big your captain's table, keep strong and carry on.
 
- [1]: http://www.cleverkoala.com/wp-content/uploads/2011/03/a-team.jpg
+ [1]: /wp-content/uploads/2011/03/a-team.jpg
  [2]: http://eventlo.com
- [3]: http://www.cleverkoala.com/2010/10/confessions-of-a-solo-founder/
+ [3]: /2010/10/confessions-of-a-solo-founder/
  [4]: http://getspoton.com/
  [5]: http://www.thisisgoingtobebig.com/
  [6]: http://www.meetup.com/HobokenTechMeetup/

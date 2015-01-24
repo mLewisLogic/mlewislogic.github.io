@@ -23,7 +23,7 @@ Socialgraph is an open-source project I just launched over the weekend that aims
 
 &nbsp;
 
-[<img alt="Socialgraph system diagram" class="aligncenter size-full wp-image-34" height="186" src="http://www.cleverkoala.com/wp-content/uploads/2010/07/system_layout.png" title="Graph: System Diagram" width="600" />][1]
+[<img alt="Socialgraph system diagram" class="aligncenter size-full wp-image-34" height="186" src="/wp-content/uploads/2010/07/system_layout.png" title="Graph: System Diagram" width="600" />][1]
 
 &nbsp;
 
@@ -33,5 +33,5 @@ Rather than me trying to explain the whole thing, a picture is worth a thousand 
 
 Seriously. [Check it out.][2]
 
- [1]: http://www.cleverkoala.com/wp-content/uploads/2010/07/system_layout.png
+ [1]: /wp-content/uploads/2010/07/system_layout.png
  [2]: http://www.cleverkoala.com/socialgraph

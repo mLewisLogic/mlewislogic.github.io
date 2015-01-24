@@ -3,7 +3,6 @@ id: 27
 title: How I got my Suzuki Boulevard C50 motorcycle
 author: Mike
 layout: post
-guid: http://www.deathbymisadventure.com/?p=27
 permalink: /2009/09/how-i-got-my-suzuki-boulevard-c50-motorcycle/
 dsq_thread_id:
   - 108897572
@@ -14,7 +13,7 @@ Took the MSF (Motorcycle Safety Foundation) course last summer, and picked up a 
 
 Had been scouring Craigslist looking for a good deal on a C50 (after reading lots of reviews and deciding that it would be the best first bike for me). Figured that shopping in the fall would get me the best deal. Finally, I found a great deal down in Baltimore. $4200 for a stock black &#8217;06 C50 with 11k miles on it. I was totally pumped. After arranging a showing, I got a bank check made out, and went to visit my friend Alison down in Baltimore for the weekend. A detour of my weekend with Alison was a visit to the seller of the C50.
 
-I met the seller, Mike, at a wharf where he worked and we went over the inspection together. Everything was perfect. I was going to be the proud owner of a shiny (kind of) new bike. I gave him the bank check, and he gave me the title. We arranged for me to pick it up the following Monday after I squared away insurance and registration. I was one happy camper.  
+I met the seller, Mike, at a wharf where he worked and we went over the inspection together. Everything was perfect. I was going to be the proud owner of a shiny (kind of) new bike. I gave him the bank check, and he gave me the title. We arranged for me to pick it up the following Monday after I squared away insurance and registration. I was one happy camper.
 Monday comes. I get the title and insurance handled during lunch. I also arrange for Dan, one of my housemates, to drive me the 2-1/2 hours down to Baltimore to pick up the bike. Everything was set, aside from one small detail: the weather.
 
 The radar screen for the northeast at this time was like a bad lawn. Patchy green all over the place. There was a GINORMOUS northeast storm going on, but would I let that small detail stop this newbie rider from attempting to ride 150 miles through it in 40 degree weather on a new bike?!? Hell no!!! I watched the radar all day, and found a gap in the rain. I plotted my course. If I left at 8pm, and took a roundabout route out of the northwest of Baltimore, it was looking like I could stay high and dry. With my foolproof plan in place, I set off for Baltimore.
@@ -29,25 +28,25 @@ Out of the country roads, we hit a few red lights. 600 some-odd pounds of bike i
 
 At the gas station I fill up, grab some trail mix for energy and check my GPS so that I can anticipate my route. I get on my bike, put on my helmet, flip the ignition and turn the bike over. That&#8217;s when it hits me. That calming rush of peace. It&#8217;s that feeling you get when you realize you are committed, you are out of control, past the point of no return. Resistance is futile, so all you can do is enjoy the experience. It&#8217;s the feeling you get the second you launch off of a giant snowboarding jump, or step off a bungee jumping platform. You have control over yourself, but nothing else. You are committed, and truly alone. You alone command your fate. You.
 
-I drift back to reality. It&#8217;s go time, because this adventure isn&#8217;t going to have itself! I pull out of the gas station and I&#8217;m on the road. The sprinkling has stopped. This is going to be a beautiful ride. I&#8217;m riding smart. I know who&#8217;s around me, and I have my outs planned. A few cars pass me, but that&#8217;s fine. The speed limit is as fast as I need while I&#8217;m learning this bike anyhow. Ya know&#8230; it&#8217;s actually pretty cold out here. I bet this is why people get windshields. 60 MPH winds on you are actually pretty strong (Tropical Storm speeds says Wikipedia!).  
-I hop on 695W heading around Baltimore. GPS tells me that in 12 miles, I&#8217;ll be turning onto 85N and be leaving the city. This riding thing ain&#8217;t that bad!  
+I drift back to reality. It&#8217;s go time, because this adventure isn&#8217;t going to have itself! I pull out of the gas station and I&#8217;m on the road. The sprinkling has stopped. This is going to be a beautiful ride. I&#8217;m riding smart. I know who&#8217;s around me, and I have my outs planned. A few cars pass me, but that&#8217;s fine. The speed limit is as fast as I need while I&#8217;m learning this bike anyhow. Ya know&#8230; it&#8217;s actually pretty cold out here. I bet this is why people get windshields. 60 MPH winds on you are actually pretty strong (Tropical Storm speeds says Wikipedia!).
+I hop on 695W heading around Baltimore. GPS tells me that in 12 miles, I&#8217;ll be turning onto 85N and be leaving the city. This riding thing ain&#8217;t that bad!
 It starts with a few droplets landing on my GPS. &#8220;Damn it!&#8221; I think to myself. &#8220;I hope it doesn&#8217;t get wet inside and stop working.&#8221; More droplets land on it, followed by even larger ones. The sprinkles are getting thicker and heavier. I wipe off my faceshield. 6 more miles to 83N.
 
 Like I just rode onto the set of Road to Perdition, I get hit with a torrent of rain. &#8220;Holy shit!&#8221; I think to nobody in particular. Brakes. I need to slow down and brakes are what I need. Easy on the front brake, ever so slight on the rear, downshift into fourth gear. The last thing I want is to lock my brakes or slide out. I ease the bike down to 45 MPH. This feels safe. It&#8217;s raining hard now but I&#8217;m in control. I&#8217;m not sure what I was so worried about&#8230; rain&#8217;s not that bad.
 
-I saw the radar earlier. This must be one of those little patches on the fringe of the storm. In 15 minutes I&#8217;ll be through this and clear all the way to Allentown.  
+I saw the radar earlier. This must be one of those little patches on the fringe of the storm. In 15 minutes I&#8217;ll be through this and clear all the way to Allentown.
 5 more miles: The rain keeps pouring. When I packed for this trip I was thinking that rain meant slippery roads. I wasn&#8217;t thinking that Rain + 40ºF + 50 MPH winds &#8211; Windshield = Cold. Very, very cold.
 
 5 more miles: I&#8217;m on 83N now. Just a few more miles to go &#8217;til I&#8217;m through the storm. This rain can&#8217;t last. I saw the radar earlier. There&#8217;s no way it can keep raining.
 
 5 more miles: Doubt is creeping in. It&#8217;s still raining hard and my legs and hands are soaked to the bone. My leather jacket is keeping my body dry, but I&#8217;m not sure how much longer I can take this.
 
-5 more miles: I&#8217;m starting to feel a bit tired. My brain isn&#8217;t as sharp as it was when I left the wharf. It&#8217;s dulled enough to not realize that it&#8217;s dulled. What it is still sharp enough to notice is that my limbs are starting to feel very heavy. At first I assume it&#8217;s because of the rain. I&#8217;ve got a lot of water on me, and with all these layers, my clothes are pretty heavy. On the other hand, I&#8217;m not feeling as cold as I was before. A bell goes off in my brain.  
-Oh shit. Hypothermia. Oh shit&#8230;.. oh shit&#8230;.  
-I flex my fingers. They barely move. I can see them try to bend, but I can&#8217;t feel them move. I try to lift my left hand off of the handle bar. I feel like there is 100 lbs. attached to it. My legs&#8230;. oh god, I can barely move my legs. They wiggle a bit, but it feels like a Herculean effort to lift my right foot 1 inch off the floorboard.  
+5 more miles: I&#8217;m starting to feel a bit tired. My brain isn&#8217;t as sharp as it was when I left the wharf. It&#8217;s dulled enough to not realize that it&#8217;s dulled. What it is still sharp enough to notice is that my limbs are starting to feel very heavy. At first I assume it&#8217;s because of the rain. I&#8217;ve got a lot of water on me, and with all these layers, my clothes are pretty heavy. On the other hand, I&#8217;m not feeling as cold as I was before. A bell goes off in my brain.
+Oh shit. Hypothermia. Oh shit&#8230;.. oh shit&#8230;.
+I flex my fingers. They barely move. I can see them try to bend, but I can&#8217;t feel them move. I try to lift my left hand off of the handle bar. I feel like there is 100 lbs. attached to it. My legs&#8230;. oh god, I can barely move my legs. They wiggle a bit, but it feels like a Herculean effort to lift my right foot 1 inch off the floorboard.
 SHIT! Hypothermia&#8230;. shitshitshitshitshitttttttttt
 
-Stay calm. Don&#8217;t do anything stupid. At least I noticed it while I can still do something about it. All those years of skiing and snowboarding paid off&#8230; might have saved my life tonight&#8230;  
+Stay calm. Don&#8217;t do anything stupid. At least I noticed it while I can still do something about it. All those years of skiing and snowboarding paid off&#8230; might have saved my life tonight&#8230;
 I can&#8217;t make it home now, I&#8217;m barely out of Baltimore. I haven&#8217;t even been on the road half an hour and the trip is already turning into a nightmare.
 
 Alison! I need to get to Alison&#8217;s apartment. I need to get dry and warm. I need to rest. If I leave early I can still make it into work on time tomorrow morning&#8230; I need to get off the road as quickly as possible.
@@ -105,8 +104,8 @@ At this point, shame is out the window. I decide to take drastic measures, and p
 I set back out, onto the highway, and from there on the day went well, given the circumstances. Yes, it was still cold as hell, and yes, I did have to stop every 30 minutes to walk around and clap my hands til they regained feeling, but overall the ride back home went well. When I finally arrived back home at 4pm (12 hours later) I was cold, wet, and exhausted, but glad to be alive, and proud as hell for weathering the storm. Since then, my C50 has become somewhat of a trophy to me, because to be honest, I feel like I earned that bike. She&#8217;s my baby and now, we ride as one.
 
 <div id="attachment_28" style="width: 310px" class="wp-caption aligncenter">
-  <a href="http://www.deathbymisadventure.com/wp-content/uploads/2009/09/bike.jpg"><img class="size-medium wp-image-28" title="bike" src="http://www.deathbymisadventure.com/wp-content/uploads/2009/09/bike-300x217.jpg" alt="My C50, before modifications" width="300" height="217" /></a>
-  
+  <a href="/wp-content/uploads/2009/09/bike.jpg"><img class="size-medium wp-image-28" title="bike" src="/wp-content/uploads/2009/09/bike-300x217.jpg" alt="My C50, before modifications" width="300" height="217" /></a>
+
   <p class="wp-caption-text">
     My C50, before modifications
   </p>

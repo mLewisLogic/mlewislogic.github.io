@@ -3,7 +3,6 @@ id: 190
 title: On the Sea of Cortez
 author: Jim
 layout: post
-guid: http://deathbymisadventure.com/?p=190
 permalink: /2010/02/on-the-sea-of-cortez/
 dsq_thread_id:
   - 108897836

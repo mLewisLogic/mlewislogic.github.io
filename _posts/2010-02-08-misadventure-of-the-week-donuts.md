@@ -3,7 +3,6 @@ id: 180
 title: 'Misadventure of the Week: Donuts!'
 author: Mike
 layout: post
-guid: http://deathbymisadventure.com/?p=180
 permalink: /2010/02/misadventure-of-the-week-donuts/
 dsq_thread_id:
   - 108897446

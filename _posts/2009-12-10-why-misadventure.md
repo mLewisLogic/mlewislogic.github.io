@@ -4,7 +4,6 @@ title: Why Misadventure?
 author: Mike
 excerpt: "In legal terms, 'death by misadventure' is the result of a lawful act executed carelessly or recklessly."
 layout: post
-guid: http://deathbymisadventure.com/?p=125
 permalink: /2009/12/why-misadventure/
 dsq_thread_id:
   - 108898066
@@ -13,7 +12,7 @@ categories:
 ---
 In legal terms, &#8216;death by misadventure&#8217; is the result of a lawful act executed carelessly or recklessly. [[1]][1]
 
-The majority of people out there will read that sentence and think &#8220;Idiots. They should have been more careful and maybe they wouldn&#8217;t have gotten hurt.&#8221;  
+The majority of people out there will read that sentence and think &#8220;Idiots. They should have been more careful and maybe they wouldn&#8217;t have gotten hurt.&#8221;
 A small minority see the words &#8216;misadventure&#8217; and &#8216;recklessly&#8217; and our minds immediately begin to imagine what sort of fantastic feat would qualify for this accolade.
 
 The saner of humans are content to manage their risk and arrive at their deathbed surrounded by their friends and family as they quietly pass on. The slim rest of us imagine laying in that same deathbed regaling our friends and families with near-death stories, brave heroics and impossible odds. We crave that chemical addiction of adrenaline and long for the next high.

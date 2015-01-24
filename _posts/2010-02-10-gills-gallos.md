@@ -3,7 +3,6 @@ id: 185
 title: 'Gill&#8217;s gallos'
 author: Jim
 layout: post
-guid: http://deathbymisadventure.com/?p=185
 permalink: /2010/02/gills-gallos/
 dsq_thread_id:
   - 108853920

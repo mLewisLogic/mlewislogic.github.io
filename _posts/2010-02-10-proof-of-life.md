@@ -3,7 +3,6 @@ id: 187
 title: Proof of Life
 author: Jim
 layout: post
-guid: http://deathbymisadventure.com/2010/02/proof-of-life/
 permalink: /2010/02/proof-of-life/
 dsq_thread_id:
   - 108897499

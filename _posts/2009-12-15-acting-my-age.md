@@ -3,7 +3,6 @@ id: 135
 title: Acting my Age
 author: Mike
 layout: post
-guid: http://deathbymisadventure.com/?p=135
 permalink: /2009/12/acting-my-age/
 dsq_thread_id:
   - 108853846
@@ -16,7 +15,7 @@ So I decided to finally start acting my age. Rather than spending more effort an
 
 Say hello to my 1995 Honda Fireblade CBR900
 
-[<img class="aligncenter size-full wp-image-136" title="1995 Honda CBR 900" src="http://deathbymisadventure.com/wp-content/uploads/2009/12/P1010090.jpg" alt="1995 Honda CBR 900" width="600" height="480" />][1]
+[<img class="aligncenter size-full wp-image-136" title="1995 Honda CBR 900" src="/wp-content/uploads/2009/12/P1010090.jpg" alt="1995 Honda CBR 900" width="600" height="480" />][1]
 
 I&#8217;d like to follow this announcement up by saying that there&#8217;s no way I&#8217;m giving up my C50 just yet. I&#8217;ve just gotten her modified to suit me perfectly. I love riding her to work, taking long relaxing rides, and sharing the experience with passengers. What this does mean, however, is that when that devil finds it&#8217;s way up onto my shoulder, I now have a proper machine to handle the extremes that I like to push. I&#8217;ve already bottomed out the frame on the C50 a few too many times, so sparing it the really rough scraping runs will probably be the best for its (and my) health in the long run.
 
@@ -38,6 +37,6 @@ After taking the bike for a test drive and thinking &#8220;Holy shit! This thing
 
 At the very least its making me think a lot less about the performance limitations of [my C50][3] (except when riding two up, then I just feel bad for it struggling in first gear.)
 
- [1]: http://deathbymisadventure.com/wp-content/uploads/2009/12/P1010090.jpg
+ [1]: /wp-content/uploads/2009/12/P1010090.jpg
  [2]: http://www.bikez.com/motorcycles/honda_cbr_900_rr_fireblade_1995.php
- [3]: http://deathbymisadventure.com/2009/09/how-i-got-my-suzuki-boulevard-c50-motorcycle/
+ [3]: /2009/09/how-i-got-my-suzuki-boulevard-c50-motorcycle/

@@ -3,7 +3,6 @@ id: 259
 title: Never Again
 author: Jim
 layout: post
-guid: http://deathbymisadventure.com/?p=259
 permalink: /2010/03/never-again/
 dsq_thread_id:
   - 108853971
@@ -66,7 +65,7 @@ categories:
   <span style="font-size: small">I get back in line, pay my fee, get my pasport stamped and move on to customs or <em>aduana</em>. Here the same process of forms, copies, stamps, and signatures repeats all over again but now with my motorcycle, rather than me, the object of attention. They want to see the bike, inspect it, record the VIN, compare it to the VIN on the custom&#8217;s form from the country I just left, sell me insurance, and spray the tires with some sort of pesticide/fungicide/cleanser. Men and women in three-dollar jobs stand as gatekeepers to filthy garbage-strewn chaotic countries determining whether or not you and your bike are suitable for entry.  All the while little boys with battered wooden boxes ask to shine your boots, or elderly beggars approach you with their wrinkled and shaking out-stretched hands.</span>
 </div>
 
-<span style="font-size: small">This insanity doesn&#8217;t stop at the border. I was issued a ticket in Panama for making an illegal U-turn where I saw no sign indicating that I couldn&#8217;t. The cop told me that I had to pay the ticket or I would be stopped at the airport and not be permitted to leave the country. Given that the ticket was issued to my passport rather than my driver&#8217;s license, I thought this might be a real possibility. I&#8217;ll spare you the tedious story, but it took me four hours and visits to five different locations before I was able to pay the $75 ticket and get a stamped receipt.</p> 
+<span style="font-size: small">This insanity doesn&#8217;t stop at the border. I was issued a ticket in Panama for making an illegal U-turn where I saw no sign indicating that I couldn&#8217;t. The cop told me that I had to pay the ticket or I would be stopped at the airport and not be permitted to leave the country. Given that the ticket was issued to my passport rather than my driver&#8217;s license, I thought this might be a real possibility. I&#8217;ll spare you the tedious story, but it took me four hours and visits to five different locations before I was able to pay the $75 ticket and get a stamped receipt.</p>
 
 <p>
   So many of the people I met throughout Central America were wonderfully kind, helpful, and friendly. I am very fortunate to have met them. However, I can&#8217;t shake the feeling that they fully deserve the prevailing living conditions to the extent that they&#8217;re able to do something about them yet still willing to put up with the status quo.

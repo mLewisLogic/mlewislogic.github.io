@@ -29,7 +29,7 @@ tags:
   - venmo
   - zocdoc
 ---
-[<img alt="" class="alignright size-full wp-image-118" height="69" src="http://www.cleverkoala.com/wp-content/uploads/2011/05/ga.png" title="ga" width="69" />][1][<img alt="" class="alignright size-full wp-image-117" height="29" src="http://www.cleverkoala.com/wp-content/uploads/2011/05/nextny.png" title="nextny" width="69" />][2]So, over the past few weeks, I've been putting together a tech mentorship program for aspiring developers. The mentors helping out are amazing. If you know any smart developers, feel free to pass this info along.
+[<img alt="" class="alignright size-full wp-image-118" height="69" src="/wp-content/uploads/2011/05/ga.png" title="ga" width="69" />][1][<img alt="" class="alignright size-full wp-image-117" height="29" src="/wp-content/uploads/2011/05/nextny.png" title="nextny" width="69" />][2]So, over the past few weeks, I've been putting together a tech mentorship program for aspiring developers. The mentors helping out are amazing. If you know any smart developers, feel free to pass this info along.
 
 &nbsp;
 
@@ -43,7 +43,7 @@ Details & apply:&nbsp;<http://bit.ly/kM9hoX>
 
 &nbsp;
 
-**<span class="Apple-style-span" style="font-family: Arial, sans-serif; font-size: 13px; white-space: pre-wrap; color: rgb(0, 0, 0); ">How it works:</span>  
+**<span class="Apple-style-span" style="font-family: Arial, sans-serif; font-size: 13px; white-space: pre-wrap; color: rgb(0, 0, 0); ">How it works:</span>
 **
 
   * <span class="Apple-style-span" style="font-family: Arial, sans-serif; font-size: 13px; white-space: pre-wrap; color: rgb(0, 0, 0); ">Each mentor gets paired with one or two developers</span>
@@ -52,7 +52,7 @@ Details & apply:&nbsp;<http://bit.ly/kM9hoX>
 
 &nbsp;
 
-**<span class="Apple-style-span" style="font-family: Arial, sans-serif; font-size: 13px; white-space: pre-wrap; color: rgb(0, 0, 0); ">Requirements:</span>  
+**<span class="Apple-style-span" style="font-family: Arial, sans-serif; font-size: 13px; white-space: pre-wrap; color: rgb(0, 0, 0); ">Requirements:</span>
 **
 
   * <span class="Apple-style-span" style="font-family: Arial, sans-serif; font-size: 13px; white-space: pre-wrap; color: rgb(0, 0, 0); ">You are a bona-fide techie. You have a degree in CS or have worked as a developer professionally.</span>
@@ -61,7 +61,7 @@ Details & apply:&nbsp;<http://bit.ly/kM9hoX>
 
 &nbsp;
 
-**<span class="Apple-style-span" style="font-family: Arial, sans-serif; font-size: 13px; white-space: pre-wrap; color: rgb(0, 0, 0); ">The mentors:</span>  
+**<span class="Apple-style-span" style="font-family: Arial, sans-serif; font-size: 13px; white-space: pre-wrap; color: rgb(0, 0, 0); ">The mentors:</span>
 **
 
   * <span class="Apple-style-span" style="font-family: Arial, sans-serif; font-size: 13px; white-space: pre-wrap; color: rgb(0, 0, 0); ">Andrew Kortina, Venmo (<a href="http://twitter.com/kortina" style="color: rgb(0, 0, 204); " target="_blank">twitter.com/kortina</a>)</span>
@@ -87,5 +87,5 @@ Details & apply:&nbsp;<http://bit.ly/kM9hoX>
 
 """"""""""
 
- [1]: http://www.cleverkoala.com/wp-content/uploads/2011/05/ga.png
- [2]: http://www.cleverkoala.com/wp-content/uploads/2011/05/nextny.png
+ [1]: /wp-content/uploads/2011/05/ga.png
+ [2]: /wp-content/uploads/2011/05/nextny.png

@@ -3,7 +3,6 @@ id: 297
 title: Java Energy Drink Shootout
 author: Mike
 layout: post
-guid: http://deathbymisadventure.com/?p=297
 permalink: /2010/07/java-energy-drink-shootout/
 dsq_thread_id:
   - 119466513
@@ -32,4 +31,4 @@ Over the course of many long nights, I've done the hard work of reviewing the la
 
 **Rockstar *(Roasted Mocha)*** &#8211; Imagine mixing Ovaltine and a bunch of diner half and half cups together. Now imagine that mix after it's been sitting in the sun for a day. I'm not sure which one I would rather drink. This one makes my nevereverevereveragain list with flying colors. bitterness 0 sweetness + energy +++ overall (1/10)
 
-<img alt="Java energy drink comparison" height="501" src="http://deathbymisadventure.com/wp-content/uploads/74469f3cb2131a4bd899244b41017a4b.png" width="477" />
+<img alt="Java energy drink comparison" height="501" src="/wp-content/uploads/74469f3cb2131a4bd899244b41017a4b.png" width="477" />

@@ -14,7 +14,7 @@ tags:
   - hackers
   - software
 ---
-[<img alt="" class="alignright size-medium wp-image-120" height="180" src="http://www.cleverkoala.com/wp-content/uploads/2011/07/code-300x225.jpg" title="code" width="240" />][1]
+[<img alt="" class="alignright size-medium wp-image-120" height="180" src="/wp-content/uploads/2011/07/code-300x225.jpg" title="code" width="240" />][1]
 
 Over the last decade of developing, I've noticed two major schools of thought when it comes to software development. They're really two ends of a spectrum, and most developers fit somewhere on that line between them. The extremes of the spectrum are the Hacker, and the Architect. I won't argue that one is better or "right", but each lend themselves to very different situations.
 
@@ -24,4 +24,4 @@ Architects focus on beautiful, robust software that is elegantly constructed and
 
 Obviously, each school has its pros and cons, which suit themselves better to different scenarios. Are you most concerned with immediate delivery (at the expense of long-term cost)? If so, you need a hacker. Is reliability, security, or stability a concern? Get yourself an architect.
 
- [1]: http://www.cleverkoala.com/wp-content/uploads/2011/07/code.jpg
+ [1]: /wp-content/uploads/2011/07/code.jpg

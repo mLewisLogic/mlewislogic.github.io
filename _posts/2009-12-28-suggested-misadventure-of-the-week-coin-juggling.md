@@ -3,7 +3,6 @@ id: 141
 title: 'Suggested misadventure of the week: Coin juggling'
 author: Mike
 layout: post
-guid: http://deathbymisadventure.com/2009/12/suggested-misadventure-of-the-week-coin-juggling/
 permalink: /2009/12/suggested-misadventure-of-the-week-coin-juggling/
 dsq_thread_id:
   - 108853851

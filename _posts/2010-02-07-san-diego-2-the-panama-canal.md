@@ -3,7 +3,6 @@ id: 175
 title: San Diego 2 the Panama Canal
 author: Jim
 layout: post
-guid: http://deathbymisadventure.com/?p=175
 permalink: /2010/02/san-diego-2-the-panama-canal/
 dsq_thread_id:
   - 108853895

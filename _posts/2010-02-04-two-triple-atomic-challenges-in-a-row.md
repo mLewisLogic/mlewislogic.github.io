@@ -4,7 +4,6 @@ title: 'Two &#8220;Triple Atomic Challenges&#8221; in a row'
 author: Mike
 excerpt: My buddy attempts two orders of "Triple Atomic" wings back to back.
 layout: post
-guid: http://deathbymisadventure.com/?p=169
 permalink: /2010/02/two-triple-atomic-challenges-in-a-row/
 dsq_thread_id:
   - 108897346

@@ -3,7 +3,6 @@ id: 194
 title: Agua Caliente de Garate
 author: Jim
 layout: post
-guid: http://deathbymisadventure.com/2010/02/agua-caliente-de-garate/
 permalink: /2010/02/agua-caliente-de-garate/
 dsq_thread_id:
   - 108853926

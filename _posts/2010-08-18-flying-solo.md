@@ -13,7 +13,7 @@ categories:
 tags:
   - startup
 ---
-This is a post I've wanted to write for a while now, but there were a bunch of things up in the air. That's all been figured out now.[<img alt="Bungy Jumping" class="alignright size-full wp-image-68" height="476" src="http://www.cleverkoala.com/wp-content/uploads/2010/08/bungywide.jpg" title="Bungy Jumping" width="252" />][1]
+This is a post I've wanted to write for a while now, but there were a bunch of things up in the air. That's all been figured out now.[<img alt="Bungy Jumping" class="alignright size-full wp-image-68" height="476" src="/wp-content/uploads/2010/08/bungywide.jpg" title="Bungy Jumping" width="252" />][1]
 
 I'm starting a business. Not just developing a software product (been there, done that), but starting a business built upon a software platform.
 
@@ -29,4 +29,4 @@ Feel free to share this with anyone else you know who's in the same boat or is t
 
 <small>Note: Yes, that's me bungy jumping. Yes, it feels very much like what I'm doing now</small>
 
- [1]: http://www.cleverkoala.com/wp-content/uploads/2010/08/bungywide.jpg
+ [1]: /wp-content/uploads/2010/08/bungywide.jpg

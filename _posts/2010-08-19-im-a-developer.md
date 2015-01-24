@@ -15,7 +15,7 @@ tags:
   - jfdi
   - startup
 ---
-[<img alt="" class="alignright size-full wp-image-70" height="344" src="http://www.cleverkoala.com/wp-content/uploads/2010/08/juggler.png" style="cursor: default; " title="juggler" width="130" />][1]Starting a business means that my roles just got very generalized. It's all on me now, so I'm going to call myself a Developer. I'll be tackling a combination of Software Development and Business Development, so it seems apt. Toss some&nbsp;Market Development in there and we really got ourselves a party.
+[<img alt="" class="alignright size-full wp-image-70" height="344" src="/wp-content/uploads/2010/08/juggler.png" style="cursor: default; " title="juggler" width="130" />][1]Starting a business means that my roles just got very generalized. It's all on me now, so I'm going to call myself a Developer. I'll be tackling a combination of Software Development and Business Development, so it seems apt. Toss some&nbsp;Market Development in there and we really got ourselves a party.
 
 For this week, I'm sticking with the business side of things. No point in jumping the gun on writing code. Running full speed won't get you across the finish first if you're running in the wrong direction.
 
@@ -29,4 +29,4 @@ I've heard a lot of talk in the tech community like "Don't bother with a busines
 
 Software development before you have a vision for your business is just an engineering way to procrastinate. Code is easy, business is hard. Cry about it, then go write your business plan.
 
- [1]: http://www.cleverkoala.com/wp-content/uploads/2010/08/juggler.png
+ [1]: /wp-content/uploads/2010/08/juggler.png

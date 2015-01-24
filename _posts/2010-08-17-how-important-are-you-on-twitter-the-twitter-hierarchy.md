@@ -20,11 +20,11 @@ Take, for instance, [@the\_real\_shaq][1]. Take a look at those tweets. Seriousl
 
 How big somebody's mega-phone is directly correlates to the social power that they wield. Despite the quality of his tweets, tell me you wouldn't be smiling if he @'ed you. 3 million impressions is a whole lot of clout, even if it has nothing to do with your industry or core focus.
 
-[<img alt="The Twitter Pyramid" class="aligncenter size-full wp-image-65" height="400" src="http://www.cleverkoala.com/wp-content/uploads/2010/08/twitter-pyramid.jpg" title="The Twitter Pyramid" width="400" />][2]
+[<img alt="The Twitter Pyramid" class="aligncenter size-full wp-image-65" height="400" src="/wp-content/uploads/2010/08/twitter-pyramid.jpg" title="The Twitter Pyramid" width="400" />][2]
 
 How high their followers-to-following ratio is indicates how much they respect the people they *are*&nbsp;following. Somebody who follows as many people are following them essentially look like "I'll scratch yours if you scratch mine" folks. It's kiss-ass and it shows. Following 611 while being followed by 3M screams "People *want* to listen to me, and I don't have to beg for it."
 
 When you apply this across the entire fabric of our Twitter ecosystem, it forms a pyramid. That dude that everyone in you industry respects and follows? You'd love to have him RT a link back to your site. Guess what? He's be equally as happy if the mayor of his city tweeted about him, and that mayor would be elated if Shaq RT'd something he said. It works all the way up. And guess what? Shaq doesn't give a damn if you RT him because he doesn't know who you are. Trust me, your content isn't winning him over.
 
  [1]: http://www.twitter.com/the_real_shaq
- [2]: http://www.cleverkoala.com/wp-content/uploads/2010/08/twitter-pyramid.jpg
+ [2]: /wp-content/uploads/2010/08/twitter-pyramid.jpg

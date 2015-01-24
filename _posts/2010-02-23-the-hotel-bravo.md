@@ -3,7 +3,6 @@ id: 229
 title: The Hotel Bravo
 author: Jim
 layout: post
-guid: http://deathbymisadventure.com/?p=229
 permalink: /2010/02/the-hotel-bravo/
 dsq_thread_id:
   - 108853943
@@ -22,21 +21,21 @@ Oh yeah, the landlady let me park my motorcycle right in the lobby.
 
 <div>
   <div id="attachment_231" style="width: 310px" class="wp-caption alignleft">
-    <a href="http://deathbymisadventure.com/wp-content/uploads/2010/02/Bravo2.jpg"><img class="size-medium wp-image-231" src="http://deathbymisadventure.com/wp-content/uploads/2010/02/Bravo2-300x225.jpg" alt="" width="300" height="225" /></a>
-    
+    <a href="/wp-content/uploads/2010/02/Bravo2.jpg"><img class="size-medium wp-image-231" src="/wp-content/uploads/2010/02/Bravo2-300x225.jpg" alt="" width="300" height="225" /></a>
+
     <p class="wp-caption-text">
       Safe secure parking
     </p>
   </div>
-  
+
   <div id="attachment_230" style="width: 310px" class="wp-caption alignleft">
-    <a href="http://deathbymisadventure.com/wp-content/uploads/2010/02/Bravo1.jpg"><img class="size-medium wp-image-230" src="http://deathbymisadventure.com/wp-content/uploads/2010/02/Bravo1-300x225.jpg" alt="" width="300" height="225" /></a>
-    
+    <a href="/wp-content/uploads/2010/02/Bravo1.jpg"><img class="size-medium wp-image-230" src="/wp-content/uploads/2010/02/Bravo1-300x225.jpg" alt="" width="300" height="225" /></a>
+
     <p class="wp-caption-text">
       My room at the Ritz
     </p>
   </div>
-  
+
   <p>
      
   </p>

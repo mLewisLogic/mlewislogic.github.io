@@ -3,7 +3,6 @@ id: 173
 title: New guest author!
 author: Mike
 layout: post
-guid: http://deathbymisadventure.com/?p=173
 permalink: /2010/02/new-guest-author/
 categories:
   - Uncategorized

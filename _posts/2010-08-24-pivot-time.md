@@ -13,7 +13,7 @@ categories:
 tags:
   - pivot
 ---
-[<img alt="pivot" class="alignright size-full wp-image-79" height="175" src="http://www.cleverkoala.com/wp-content/uploads/2010/08/pivot.jpg" title="pivot" width="170" />][1]Well, I'm certainly glad I made myself establish a business case before I got busy coding. Turns out I showed up a bit late to the party, and the competition is pretty nasty.
+[<img alt="pivot" class="alignright size-full wp-image-79" height="175" src="/wp-content/uploads/2010/08/pivot.jpg" title="pivot" width="170" />][1]Well, I'm certainly glad I made myself establish a business case before I got busy coding. Turns out I showed up a bit late to the party, and the competition is pretty nasty.
 
 &nbsp;
 
@@ -35,5 +35,5 @@ I believe that my original solution is still valid, but the road to it just got 
 
 Time to pivot and re-visit options.
 
- [1]: http://www.cleverkoala.com/wp-content/uploads/2010/08/pivot.jpg
+ [1]: /wp-content/uploads/2010/08/pivot.jpg
  [2]: http://EatDrinkHoboken.com

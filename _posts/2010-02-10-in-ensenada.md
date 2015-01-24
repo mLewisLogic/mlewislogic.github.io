@@ -3,7 +3,6 @@ id: 183
 title: In Ensenada
 author: Jim
 layout: post
-guid: http://deathbymisadventure.com/?p=183
 permalink: /2010/02/in-ensenada/
 dsq_thread_id:
   - 108853914

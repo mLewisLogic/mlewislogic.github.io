@@ -3,14 +3,13 @@ id: 139
 title: Wanderlust
 author: Mike
 layout: post
-guid: http://deathbymisadventure.com/?p=139
 permalink: /2009/12/wanderlust/
 dsq_thread_id:
   - 108897923
 categories:
   - Misadventure
 ---
-*I am a shark.*  
+*I am a shark.*
 If I stop moving, I can&#8217;t breathe. It&#8217;s like a bad case of the fidgets, but on a much grander scale.
 
 It&#8217;s that feeling you get when you are told to stop tapping your toes. You try, and as long as you keep your mind on being still, it&#8217;s doable, but it&#8217;s also forced. It feels empty, and the longer you try to hold it, the more awkward it feels. Eventually you get so antsy that you just need to move. At that point, you want to tap your foot, but shifting around or moving your arms will do. Anything that lets you keep moving.

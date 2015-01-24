@@ -3,7 +3,6 @@ id: 161
 title: 'Misadventure of the week: Break a bottle over your head'
 author: Mike
 layout: post
-guid: http://deathbymisadventure.com/?p=161
 permalink: /2010/01/misadventure-of-the-week-breaking-bottles/
 dsq_thread_id:
   - 108897634

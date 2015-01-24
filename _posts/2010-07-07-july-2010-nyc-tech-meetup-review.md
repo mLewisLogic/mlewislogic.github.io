@@ -16,7 +16,7 @@ tags:
 ---
 &nbsp;
 
-<img align="right" alt="NYC Tech Meetup" border="0" height="121" hspace="5" src="http://www.cleverkoala.com/wp-content/uploads/www_meetup.jpg" vspace="0" width="180" />I attended my first NYC Tech Meetup last night, and was really pleased with what I found. It was certainly a nerdy crowd, but much more diverse than I had guessed it would be. There was a certain hunger in the air. I don't imagine there was a single person in attendance without at least one big idea in their head that could "make it big." The company demos were overall pretty neat as well. Mostly hits, with a few misses in there. I haven't used any of these services myself, so the following impressions are based solely off of what I saw of their demos.
+<img align="right" alt="NYC Tech Meetup" border="0" height="121" hspace="5" src="/wp-content/uploads/www_meetup.jpg" vspace="0" width="180" />I attended my first NYC Tech Meetup last night, and was really pleased with what I found. It was certainly a nerdy crowd, but much more diverse than I had guessed it would be. There was a certain hunger in the air. I don't imagine there was a single person in attendance without at least one big idea in their head that could "make it big." The company demos were overall pretty neat as well. Mostly hits, with a few misses in there. I haven't used any of these services myself, so the following impressions are based solely off of what I saw of their demos.
 
 &nbsp;
 

@@ -12,7 +12,7 @@ categories:
 tags:
   - python
 ---
-<img align="left" alt="Python" height="80" src="http://www.cleverkoala.com/wp-content/uploads/python-powered-w-200x80.png" width="200" />Yes, I know, Python's been around forever. I've even dabbled with it a bit over the last few years. To be honest though, I never really gave it a fair chance. By that, I mean I had never used it to tackle a large enough problem that it's ease-of-use would shine.
+<img align="left" alt="Python" height="80" src="/wp-content/uploads/python-powered-w-200x80.png" width="200" />Yes, I know, Python's been around forever. I've even dabbled with it a bit over the last few years. To be honest though, I never really gave it a fair chance. By that, I mean I had never used it to tackle a large enough problem that it's ease-of-use would shine.
 
 &nbsp;
 

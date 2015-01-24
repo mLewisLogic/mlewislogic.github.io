@@ -3,7 +3,6 @@ id: 245
 title: 'Jim&#8217;s Progress'
 author: Mike
 layout: post
-guid: http://deathbymisadventure.com/?p=245
 permalink: /2010/03/jims-progress/
 dsq_thread_id:
   - 108853963

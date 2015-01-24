@@ -3,7 +3,6 @@ id: 208
 title: Puerto Vallarta
 author: Jim
 layout: post
-guid: http://deathbymisadventure.com/2010/02/puerto-vallarta/
 permalink: /2010/02/puerto-vallarta/
 dsq_thread_id:
   - 108898020

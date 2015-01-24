@@ -11,7 +11,7 @@ categories:
   - Entrepreneurship
   - Tech
 ---
-[<img alt="wheel" class="alignright size-full wp-image-81" height="165" src="http://www.cleverkoala.com/wp-content/uploads/2010/08/wheel.jpg" title="wheel" width="180" />][1]This sounds so dead obvious that most people will probably think about not even reading this.
+[<img alt="wheel" class="alignright size-full wp-image-81" height="165" src="/wp-content/uploads/2010/08/wheel.jpg" title="wheel" width="180" />][1]This sounds so dead obvious that most people will probably think about not even reading this.
 
 <u>Read it</u>, and use it to refresh your frame of thought on the issue. This is one of the most important parts of building anything.
 
@@ -36,4 +36,4 @@ This sort of "greatest common factors" solution is often right, and can save you
 
 Don't re-invent the wheel, but also don't go buy another wheel when all you needed was the spoke.
 
- [1]: http://www.cleverkoala.com/wp-content/uploads/2010/08/wheel.jpg
+ [1]: /wp-content/uploads/2010/08/wheel.jpg

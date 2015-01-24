@@ -3,7 +3,6 @@ id: 98
 title: My profile at BikeBuffs
 author: Mike
 layout: post
-guid: http://www.deathbymisadventure.com/?p=98
 permalink: /2009/11/my-profile-at-bikebuffs/
 dsq_thread_id:
   - 108897728

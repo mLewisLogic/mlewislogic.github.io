@@ -10,9 +10,9 @@ views:
 categories:
   - Entrepreneurship
 ---
-[<img alt="loser" class="alignright size-full wp-image-84" height="164" src="http://www.cleverkoala.com/wp-content/uploads/2010/08/loser.jpg" title="loser" width="220" />][1]Market collapse, better competitors, lack of interest, failure to bridge the gap, lack of talent, out of runway, your product sucks, blah blah blah.
+[<img alt="loser" class="alignright size-full wp-image-84" height="164" src="/wp-content/uploads/2010/08/loser.jpg" title="loser" width="220" />][1]Market collapse, better competitors, lack of interest, failure to bridge the gap, lack of talent, out of runway, your product sucks, blah blah blah.
 
-*The most likely reason is because of you.  
+*The most likely reason is because of you.
 *
 
 The only chance that you have of survival is if the title of this post pissed you off and made you want to prove me and everybody else wrong.
@@ -47,4 +47,4 @@ When somebody rails against your project, there is no taking neutral ground. We'
 
 "Changing the conversation" works for PR and ad firms. Don't fall into that trap. Cherish the roller coaster ride and make it work for you. If you hate roller coasters, this probably isn't the right game for you.
 
- [1]: http://www.cleverkoala.com/wp-content/uploads/2010/08/loser.jpg
+ [1]: /wp-content/uploads/2010/08/loser.jpg

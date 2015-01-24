@@ -24,7 +24,7 @@ Over the last 5 months, I've had the opportunity to develop web-apps using 5 dif
 
 &nbsp;
 
-### [Django][1]<span class="Apple-style-span" style="font-weight: normal; font-size: 12px; "><a href="http://www.djangoproject.com/"><img alt="Django logo" class="alignright size-full wp-image-51" height="41" src="http://www.cleverkoala.com/wp-content/uploads/2010/08/Django.gif" title="Django" width="117" /></a></span>
+### [Django][1]<span class="Apple-style-span" style="font-weight: normal; font-size: 12px; "><a href="http://www.djangoproject.com/"><img alt="Django logo" class="alignright size-full wp-image-51" height="41" src="/wp-content/uploads/2010/08/Django.gif" title="Django" width="117" /></a></span>
 
 In short, Django is a really phenomenal framework. Sorry to jump on the bandwagon, but getting up to speed was really painless. On the other hand, I didn't feel like the structure of things was going to seriously hamper expansion/scalability anytime in the very near future. It's a [MVC][2]&nbsp;(technically a [MVT][3]) framework, like most modern web frameworks out there. This keeps things nice, neat and organized, so long as you keep with convention. Basically, they start you out with a bunch of "buckets" and say "ok, your data layer goes here, your logic goes here, and your presentation layer goes here." You don't *have* to follow suite, but that is why you're using a framework, right? I used Django for the back-end at [PeoplePatcher][4].
 
@@ -36,7 +36,7 @@ The framework itself fits it's motto "For perfectionists with deadlines." There 
 
 &nbsp;
 
-### [Pylons][7]<span class="Apple-style-span" style="font-weight: normal; font-size: 12px; "><a href="http://pylonshq.com/"><img alt="Pylons logo" class="alignright size-full wp-image-57" height="37" src="http://www.cleverkoala.com/wp-content/uploads/2010/08/pylons.png" title="Pylons" width="150" /></a></span>
+### [Pylons][7]<span class="Apple-style-span" style="font-weight: normal; font-size: 12px; "><a href="http://pylonshq.com/"><img alt="Pylons logo" class="alignright size-full wp-image-57" height="37" src="/wp-content/uploads/2010/08/pylons.png" title="Pylons" width="150" /></a></span>
 
 Pylons feels the up-and-comer that's aiming to do things right. It has nowhere near the community support that Django has, nor the library/"app" support. It's going to take you longer to develop an app using Pylons, but my feeling is that it is more of an "industrial-strength" framework for when you want to build an app that's rock-solid. The cost is that you'll be writing a lot more code yourself, but it's going to be built on top of a great foundation. The Pylons framework has a very dedicated core team that is constantly keeping the platform on the cutting edge. It's full-stack, and they unapologetically keep the components used current and relevant. I have no doubt that they will be the first to incorporate newer, better stack components as they stabilize and become production-ready (such as [Tornado][8] or [Twisted][9]). This is what I used to develop the back-end to [Socialgraph][10].
 
@@ -46,7 +46,7 @@ Pylons feels the up-and-comer that's aiming to do things right. It has nowhere n
 
 &nbsp;
 
-### [Turbogears][11]<span class="Apple-style-span" style="font-weight: normal; font-size: 12px; "><a href="http://www.turbogears.org/"><img alt="Turbogears logo" class="alignright size-full wp-image-55" height="78" src="http://www.cleverkoala.com/wp-content/uploads/2010/08/g_gear.png" title="Turbogears" width="80" /></a></span>
+### [Turbogears][11]<span class="Apple-style-span" style="font-weight: normal; font-size: 12px; "><a href="http://www.turbogears.org/"><img alt="Turbogears logo" class="alignright size-full wp-image-55" height="78" src="/wp-content/uploads/2010/08/g_gear.png" title="Turbogears" width="80" /></a></span>
 
 Turbogears has the philosophy that they'll take the best of open web frameworks and components and stick them together. It's a similar philosophy to Pylons, but it feels a little less polished. On the other hand, they're not afraid to provide more functionality than Pylons, which is a plus and a minus. I feel like it's a solid attempt, but it's not really filling a market need. Need a ready-to-rock framework? Why would you pick Turbogears over Django? It's a false sense of accompishment. It's basically Pylons, with even more functionality, but no game-plan as to how to go any further. You're starting off at the same point as Django, but without any community support or pre-written apps. If you really needed the degree of customization offered by Pylons/Turbogears to begin with, why not just start with Pylons, and add in what you need. Turbogears has a lot of potential, but it's not there yet for production work.
 
@@ -56,7 +56,7 @@ Turbogears has the philosophy that they'll take the best of open web frameworks 
 
 &nbsp;
 
-### [web.py][12]<span class="Apple-style-span" style="font-weight: normal; font-size: 12px; "><a href="http://webpy.org/"><img alt="web.py logo" class="alignright size-full wp-image-56" height="47" src="http://www.cleverkoala.com/wp-content/uploads/2010/08/webpy.gif" title="web.py" width="110" /></a></span>
+### [web.py][12]<span class="Apple-style-span" style="font-weight: normal; font-size: 12px; "><a href="http://webpy.org/"><img alt="web.py logo" class="alignright size-full wp-image-56" height="47" src="/wp-content/uploads/2010/08/webpy.gif" title="web.py" width="110" /></a></span>
 
 web.py is the bare-bones of the web frameworks, and that's how it likes it. It doesn't waste your time with any cruft, or MVC, or telling you how to write your damn apps. In all reality, it's little more than simple hooks into a web-server that you can tie into your Python program. This framework is not for the faint of heart. If you don't know what you're doing, it will let you shoot yourself in the foot, and laugh in your face about it. On the other hand, not all web-apps fit nicely into the MVC paradigm. What if you're building a web-server that doesn't even have a presentation layer? web.py is great for web-enabling your own code, without fitting your square peg into the round hole of traditional web-app design. I used this heavily when I was working with [Oyster.com][13].
 
