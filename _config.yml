@@ -52,4 +52,7 @@ sass:
   sass_dir: _sass
 
 gems:
+  - jekyll-paginate
   - jekyll-redirect-from
+  - pygments.rb
+
